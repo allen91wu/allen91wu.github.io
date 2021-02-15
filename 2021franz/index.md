@@ -3,7 +3,7 @@
 
 公開
 ---
-- [2/4(四)開會紀錄](https://hackmd.io/@en0255//E1KA6qOCRoKhgHhXT_ik2Q)
+- [2/4(四)開會紀錄](/0204)
 - [0210](https://hackmd.io/@en0255/2hOobXKARk-IQw1Kn8sO5g)
 
 不公開
