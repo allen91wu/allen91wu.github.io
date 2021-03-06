@@ -1,8 +1,4 @@
----
-tags: myself
----
 # 隨便紀錄
-
 ## To-do list
 - [ ] 化學結報(Week1)
 	- deadline : 3/18 Thu.
@@ -34,24 +30,24 @@ tags: myself
 		- 墨洋拉麵(台大附近)
 		- 唐琪柯德
 		- 住宿：南陽街壹號旅店 (NTD$896)(15:00~)
-		- 車票-高鐵
+		- ==車票-高鐵==
 	- 03/21 Sun.
 		- PyCon TW 2021 March Monthly Meeting
 			- Date : 14:00~
 			- location : 印印time
 			- [document link](https://hackmd.io/@pycontw/SyG5_GrED/%2FLUIdCFS6RO-XL2j4_zgAHg%3Fview#202103-Monthly-Meeting)
-		- 車票-高鐵
+		- ==車票-高鐵==
 - **04/01 Thu. General Chemistry Midterm**
 	- CH11-CH14
 - **04/03 Sat. ~ 04/11 Sun. Holiday** 
-	- 車票要訂
+	- ==車票要訂==
 		- 04/02晚上 Taichung-Kaohsiung
 		- 04/11晚上 Kaohsiung-Taichung
 - **05/29 Sat. SITCON**
 	- 門票已取得
 	- 車票-高鐵
 	- time : 09:00~18:00
-	- 住宿
+	- ==住宿==
 		- 提早一天嗎 (Fri.)
 		- 待兩天還三天
 		- 要先訂
