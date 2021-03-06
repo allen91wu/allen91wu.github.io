@@ -14,7 +14,7 @@ tags: myself
 - [ ] 有空讀個普化
 - [ ] 普物CH22
 	- deadline : 3/17 Wed.
----
+
 ## 一些日期 (想列出一些detail)
 - **03/08 Sun. Franz meeting**
 	- 我還沒想好要講什麼
@@ -59,6 +59,6 @@ tags: myself
 	- 宜蘭花蓮(？
 - **07/10 Sat. ~ 07/12 Mon. 家庭旅遊**
 	- 武陵農場
----
+
 ## long-term
 - 國文期末報告(期末前)
