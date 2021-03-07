@@ -41,6 +41,7 @@ tags: myself
 		- 住宿：南陽街壹號旅店 (NTD$896)(15:00~)
 		- 車票-高鐵
 	- 03/21 Sun.
+		- 阜杭豆漿
 		- PyCon TW 2021 March Monthly Meeting
 			- Date : 14:00~
 			- location : 印印time
