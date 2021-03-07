@@ -43,10 +43,7 @@ tags: myself
 		- 車票-高鐵
 - **04/01 Thu. General Chemistry Midterm**
 	- CH11-CH14
-- **04/03 Sat. ~ 04/11 Sun. Holiday** 
-	- 車票要訂
-		- 04/02晚上 Taichung-Kaohsiung
-		- 04/11晚上 Kaohsiung-Taichung
+- **04/19 Mon. ~ 04/23 Fri. Midterm Exam week**
 - **05/29 Sat. SITCON**
 	- 門票已取得
 	- 車票-高鐵
@@ -55,6 +52,7 @@ tags: myself
 		- 提早一天嗎 (Fri.)
 		- 待兩天還三天
 		- 要先訂
+- **06/21 Mon. ~ 06/25 Fri. Final Exam week**
 - **07/03 Sat. ~ 07/05 Mon. 消費者出遊**
 	- 宜蘭花蓮(？
 - **07/10 Sat. ~ 07/12 Mon. 家庭旅遊**
