@@ -9,9 +9,6 @@ tags: myself
 - [ ] 物理專題題目(ASAP)
 	- IYPT
 	- 佑來了 (e.g. 電磁砲)
-- [x] 微積分變數代換練習
-	- [X] 完成筆記
-	- deadline : 3/7 Sun.
 - [ ] 有空讀個普化
 - [ ] 普物CH22
 	- deadline : 3/17 Wed.
