@@ -19,6 +19,7 @@ tags: myself
 - **03/08 Sun. Franz meeting**
 	- 我還沒想好要講什麼
 	- 我猜是隨興風(不是很想帶欸)
+	- meet link : https://meet.google.com/ecg-spym-zet
 	- [Retro Forms](https://docs.google.com/forms/d/1skErDqT7o_X0mx4kt0_ggZDH-_zJ19HTXdSYzMxkiUk/edit)
 	- [企劃調查 Forms](https://docs.google.com/forms/d/1W93ZA4j3ExcPMk_0WfyQ8UIJjSItTzxwyQd0pHzLEug/edit)
 - **03/11 Thu. Venue Bi-weekly Meeting**
