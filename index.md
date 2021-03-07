@@ -9,7 +9,7 @@ tags: myself
 - [ ] 物理專題題目(ASAP)
 	- IYPT
 	- 佑來了 (e.g. 電磁砲)
-- [ ] 微積分變數代換練習
+- [x] 微積分變數代換練習
 	- [X] 完成筆記
 	- deadline : 3/7 Sun.
 - [ ] 有空讀個普化
@@ -17,13 +17,13 @@ tags: myself
 	- deadline : 3/17 Wed.
 
 ## 一些日期 (想列出一些detail)
-- **03/08 Sun. Franz meeting**
-	- 21:00
-	- 葉要帶企劃內容討論
-	- 我猜是隨興風(不是很想帶欸)
+- **03/09 Sun. Franz meeting**
+	- 22:00
+	- 企劃內容討論
 	- meet link : https://meet.google.com/ecg-spym-zet
 	- [Retro Forms](https://docs.google.com/forms/d/1skErDqT7o_X0mx4kt0_ggZDH-_zJ19HTXdSYzMxkiUk/edit)
 	- [企劃調查 Forms](https://docs.google.com/forms/d/1W93ZA4j3ExcPMk_0WfyQ8UIJjSItTzxwyQd0pHzLEug/edit)
+	- [企劃問題](https://docs.google.com/document/d/1-4pBa0BLSEZDc7ynUKkI42bIvZT8YNCPQ1s1bin26iY/edit)
 - **03/11 Thu. Venue Bi-weekly Meeting**
 	- 21:00
 	- 器材的重點：
