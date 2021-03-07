@@ -17,6 +17,7 @@ tags: myself
 
 ## 一些日期 (想列出一些detail)
 - **03/08 Sun. Franz meeting**
+	- 21:00
 	- 我還沒想好要講什麼
 	- 我猜是隨興風(不是很想帶欸)
 	- meet link : https://meet.google.com/ecg-spym-zet
