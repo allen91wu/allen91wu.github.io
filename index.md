@@ -17,7 +17,7 @@ tags: myself
 - **03/09 Sun. Franz meeting**
 	- 22:00
 	- 企劃內容討論
-	- meet link : https://meet.google.com/ecg-spym-zet
+	- meet link : https://meet.google.com/eei-fwsp-myx
 	- [Retro Forms](https://docs.google.com/forms/d/1skErDqT7o_X0mx4kt0_ggZDH-_zJ19HTXdSYzMxkiUk/edit)
 		- [pdf link](https://drive.google.com/file/d/1bmo5xSOaMzeEn0s31jHtoGEWUceCSyDs/view?usp=sharing)
 	- [企劃調查 Forms](https://docs.google.com/forms/d/1W93ZA4j3ExcPMk_0WfyQ8UIJjSItTzxwyQd0pHzLEug/edit)
