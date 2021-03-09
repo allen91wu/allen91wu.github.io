@@ -41,6 +41,7 @@ tags: myself
 		- 車票-高鐵
 	- 03/21 Sun.
 		- 阜杭豆漿
+                - Simple Kaffa
 		- PyCon TW 2021 March Monthly Meeting
 			- Date : 14:00~
 			- location : 印印time
