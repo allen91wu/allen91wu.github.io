@@ -5,19 +5,18 @@ tags: myself
 
 ## To-do list
 - [ ] 化學結報(Week1)
-	- deadline : 3/18 Thu.
+	- deadline : 3/12 Thu.
 - [ ] 物理專題題目(ASAP)
 	- IYPT
 	- 佑來了 (e.g. 電磁砲)
 - [ ] 有空讀個普化
 - [ ] 普物CH22
-	- deadline : 3/17 Wed.
+	- deadline : 3/10 Wed.
 
 ## 一些日期 (想列出一些detail)
-- **03/09 Sun. Franz meeting**
+- **03/14 Sun. Franz meeting**
 	- 22:00
 	- 企劃內容討論
-	- meet link : https://meet.google.com/eei-fwsp-myx
 	- [Retro Forms](https://docs.google.com/forms/d/1skErDqT7o_X0mx4kt0_ggZDH-_zJ19HTXdSYzMxkiUk/edit)
 		- [pdf link](https://drive.google.com/file/d/1bmo5xSOaMzeEn0s31jHtoGEWUceCSyDs/view?usp=sharing)
 	- [企劃調查 Forms](https://docs.google.com/forms/d/1W93ZA4j3ExcPMk_0WfyQ8UIJjSItTzxwyQd0pHzLEug/edit)
